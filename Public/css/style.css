@@ -1,0 +1,32 @@
+body {
+    height: 100%;
+    width:  100%;
+}
+.nav-item {
+    font-size: 16px;
+    background-color: forestgreen;
+}
+.jumbotron{
+    font-family: 'Maven Pro', sans-serif;
+    text-align: center;
+    font-size: 36px;
+    color: white;   
+    background-image: url(https://c1.staticflickr.com/1/316/19550147013_f94b5cf6f5_b.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-color: black;
+}
+.face {
+    width:250px;
+    height: 250px;
+}
+.about {
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 24px;
+    padding: 10px; 
+}
+.left-hand {
+    font-size: 44px;
+    padding: 10px; 
+}
