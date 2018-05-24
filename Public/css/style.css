@@ -2,10 +2,6 @@ body {
     height: 100%;
     width:  100%;
 }
-.nav-item {
-    font-size: 16px;
-    background-color: forestgreen;
-}
 .jumbotron{
     font-family: 'Maven Pro', sans-serif;
     text-align: center;
@@ -16,6 +12,11 @@ body {
     background-repeat: no-repeat;
     width: 100%;
     background-color: black;
+}
+.portfolioJumbo {
+    background-color: orange;
+    color: white;
+
 }
 .face {
     width:250px;
@@ -29,4 +30,14 @@ body {
 .left-hand {
     font-size: 44px;
     padding: 10px; 
+}
+.thumbnail {
+    height: 250px;
+    width: 250px;
+}
+.portfolioP {
+    background-color: forestgreen;
+    color: white; 
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 24px;
 }
